@@ -1,5 +1,5 @@
 # CS237A-Principles-of-Robot-Autonomy
-Course Assignments and Project of CS237A at Stanford University
+Course Assignments and Project for the course CS237A - Principles of Robot Autonomy at Stanford University, Fall 2024.
 
 **Module 1 - Path Planning (A star and RRT star)**
 
