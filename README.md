@@ -8,6 +8,7 @@ Course Assignments and Project for the course CS237A - Principles of Robot Auton
 
 
 **Module 2 - Trajectory Tracking (Gain Scheduled LQR)**
+
 <img width="500" alt="Screenshot 2025-01-03 at 12 32 03 PM" src="https://github.com/user-attachments/assets/b9daaff1-e301-4c93-9575-7adca40196a7" />
 
 
