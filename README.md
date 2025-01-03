@@ -2,6 +2,7 @@
 Course Assignments and Project for the course CS237A - Principles of Robot Autonomy at Stanford University, Fall 2024.
 
 **Module 1 - Path Planning (A star and RRT star)**
+
 ![Q1_part1](https://github.com/user-attachments/assets/4ce3a48b-375a-4c06-ba31-f26f9fc6ba8d)
 
 ![Q2_part2](https://github.com/user-attachments/assets/6ed576f9-9fab-45ef-b4e4-079e49e86cc8)
