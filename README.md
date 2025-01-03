@@ -16,7 +16,9 @@ Module 3 - Camera Calibration and ICP
 Module 4 - SLAM and Frontier Exploration
 
 <img width="524" alt="Screenshot 2025-01-03 at 12 30 01 PM" src="https://github.com/user-attachments/assets/ea9d47d3-0bfb-4573-8b0a-11d80c0c4835" />
-![frontier_states](https://github.com/user-attachments/assets/ca1ed056-3485-4554-ab3e-3d2c6e0d82bf)
+![frontier_states](https://github.com/user-attachments/assets/4dfea962-3bb2-4f3b-a242-a43f5f8af789)
+
 
 Module 5 - Filtering Techniques
-![p43](https://github.com/user-attachments/assets/53e08c41-0ec0-43ea-bfc7-503e77ae8c84)
+![p43](https://github.com/user-attachments/assets/f1c491af-accf-4b52-abf9-a4e293b6510e)
+
