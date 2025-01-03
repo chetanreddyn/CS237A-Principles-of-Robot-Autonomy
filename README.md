@@ -9,9 +9,13 @@ Course Assignments and Project of CS237A at Stanford University
 <img width="951" alt="Screenshot 2025-01-03 at 12 32 03 PM" src="https://github.com/user-attachments/assets/b9daaff1-e301-4c93-9575-7adca40196a7" />
 
 
+
 **Module 3 - Camera Calibration and ICP**
+
 ![aa274_reprojection](https://github.com/user-attachments/assets/9d747a20-e7fe-400e-9ff7-cba1c8b2e1ea)
+
 ![icp](https://github.com/user-attachments/assets/efd4ceda-90ed-4451-b20e-788d817f7af9)
+
 
 **Module 4 - SLAM and Frontier Exploration**
 
