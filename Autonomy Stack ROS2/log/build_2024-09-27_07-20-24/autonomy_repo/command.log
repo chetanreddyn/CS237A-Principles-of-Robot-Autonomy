@@ -1,0 +1,6 @@
+Invoking command in '/home/harryzhao/autonomy_ws/build/autonomy_repo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harryzhao/autonomy_ws/src/autonomy_repo -DCMAKE_INSTALL_PREFIX=/home/harryzhao/autonomy_ws/install/autonomy_repo
+Invoked command in '/home/harryzhao/autonomy_ws/build/autonomy_repo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harryzhao/autonomy_ws/src/autonomy_repo -DCMAKE_INSTALL_PREFIX=/home/harryzhao/autonomy_ws/install/autonomy_repo
+Invoking command in '/home/harryzhao/autonomy_ws/build/autonomy_repo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harryzhao/autonomy_ws/build/autonomy_repo -- -j8 -l8
+Invoked command in '/home/harryzhao/autonomy_ws/build/autonomy_repo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harryzhao/autonomy_ws/build/autonomy_repo -- -j8 -l8
+Invoking command in '/home/harryzhao/autonomy_ws/build/autonomy_repo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harryzhao/autonomy_ws/build/autonomy_repo
+Invoked command in '/home/harryzhao/autonomy_ws/build/autonomy_repo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harryzhao/autonomy_ws/build/autonomy_repo

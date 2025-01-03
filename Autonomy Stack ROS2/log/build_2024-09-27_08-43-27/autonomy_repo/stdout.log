@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Installing: /home/harryzhao/autonomy_ws/install/autonomy_repo/lib/autonomy_repo/heading_controller.py
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/lib/autonomy_repo/p3_plot.py
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/launch
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/launch/heading_control.launch.py
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/rviz
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/rviz/default.rviz
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/ament_index/resource_index/package_run_dependencies/autonomy_repo
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/ament_index/resource_index/parent_prefix_path/autonomy_repo
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/environment/path.sh
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/environment/path.dsv
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/local_setup.bash
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/local_setup.sh
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/local_setup.zsh
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/local_setup.dsv
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/package.dsv
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/ament_index/resource_index/packages/autonomy_repo
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/cmake/autonomy_repoConfig.cmake
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/cmake/autonomy_repoConfig-version.cmake
+-- Up-to-date: /home/harryzhao/autonomy_ws/install/autonomy_repo/share/autonomy_repo/package.xml

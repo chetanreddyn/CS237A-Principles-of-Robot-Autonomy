@@ -1,0 +1,8 @@
+source;share/autonomy_repo/hook/cmake_prefix_path.ps1
+source;share/autonomy_repo/hook/cmake_prefix_path.dsv
+source;share/autonomy_repo/hook/cmake_prefix_path.sh
+source;share/autonomy_repo/local_setup.bash
+source;share/autonomy_repo/local_setup.dsv
+source;share/autonomy_repo/local_setup.ps1
+source;share/autonomy_repo/local_setup.sh
+source;share/autonomy_repo/local_setup.zsh

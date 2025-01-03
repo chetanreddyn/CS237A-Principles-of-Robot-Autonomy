@@ -1,0 +1,4 @@
+source;share/autonomy_repo/local_setup.bash
+source;share/autonomy_repo/local_setup.dsv
+source;share/autonomy_repo/local_setup.sh
+source;share/autonomy_repo/local_setup.zsh
