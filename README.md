@@ -5,7 +5,9 @@ Module 1 - Path Planning (A* and RRT*)
 ![Q2_part2](https://github.com/user-attachments/assets/6ed576f9-9fab-45ef-b4e4-079e49e86cc8)
 
 Module 2 - Trajectory Tracking (Gain Scheduled LQR)
-[sim_traj_closedloop.pdf](https://github.com/user-attachments/files/18303594/sim_traj_closedloop.pdf)
+(https://github.com/user-attachments/files/18303594/sim_traj_closedloop.pdf)
+<img width="951" alt="Screenshot 2025-01-03 at 12 32 03 PM" src="https://github.com/user-attachments/assets/b9daaff1-e301-4c93-9575-7adca40196a7" />
+
 
 Module 3 - Camera Calibration and ICP
 ![aa274_reprojection](https://github.com/user-attachments/assets/9d747a20-e7fe-400e-9ff7-cba1c8b2e1ea)
