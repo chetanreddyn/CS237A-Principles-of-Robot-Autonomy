@@ -1,7 +1,7 @@
 # CS237A-Principles-of-Robot-Autonomy
 Course Assignments and Project of CS237A at Stanford University
 
-**Module 1 - Path Planning (A* and RRT*)**
+**Module 1 - Path Planning (A star and RRT star)**
 
 ![Q2_part2](https://github.com/user-attachments/assets/6ed576f9-9fab-45ef-b4e4-079e49e86cc8)
 
